@@ -13,10 +13,10 @@
   2. The program returns "Won't you be my neighbor?" if the user-inputted number contains a 3.  
     **Example Input:** 32  
     **Example Output:** "Won't you be my neighbor?"  
-  3. The program returns "Boop" if the user-inputted number contains a 2.  
+  3. The program returns "Boop" if the user-inputted number contains a 2, but not a 3.  
     **Example Input:** 21  
     **Example Output:** "Boop"  
-  4. The program returns "Beep" if the user-inputted number contains a 1.  
+  4. The program returns "Beep" if the user-inputted number contains a 1, but not a 3 or 2.  
     **Example Input:** 15  
     **Example Output:** "Beep"  
 
