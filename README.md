@@ -25,7 +25,7 @@
 
 ## Setup/Installation Requirements
 
-* Web app can be viewed from the link at the top of this READEM. Alternately you may clone this project from its Github repository, save entire project directory, then open the file "index.html" in a web browser.
+* Web app can be viewed from the link at the top of this README. Alternately you may clone this project from its Github repository, save entire project directory, then open the file "index.html" in a web browser.
 
 
 ## Support and contact details
