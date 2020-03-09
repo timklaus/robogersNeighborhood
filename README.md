@@ -7,24 +7,19 @@
 ## Description
 
 * This is a project to apply learned javascript skills to create a web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number with some exceptions:.   Below are the specs for the project:
-    1. The program does nothing to non-alphabetical characters, since they do not contain consonants or vowels.
-      * Example Input: 3
-      * Example Output: 3
-    2. The program adds "ay" to single-letter words beginning with a vowel.
-      * Example Input: i
-      * Example Output: iay
-    3. The program adds "way" to words that begin with a vowel.
-      * Example Input: apple
-      * Example Output: appleway
-    4. The program will treat the letter "y" like a consonant when it begins a word.
-      * Example Input: yoyo
-      * Example Output: oyoyay
-    5. The program moves the first consecutive consonants to the end of the word and adds "ay" to words that begin with one or more consonants.
-      * Example Input: banana
-      * Example Output: ananabay
-    6. The program moves "qu" to the end of the word as if they were a consonant if they are included in the first consonants of the word.
-      * Example Input: squeal
-      * Example output: ealsquay
+  1. The program returns a range of numbers from zero to the user-inputted number.  
+    **Example Input:** 4  
+    **Example Output:** 0, 1, 2, 3, 4  
+  2. The program returns "Won't you be my neighbor?" if the user-inputted number contains a 3.  
+    **Example Input:** 32  
+    **Example Output:** "Won't you be my neighbor?"  
+  3. The program returns "Boop" if the user-inputted number contains a 2.  
+    **Example Input:** 21  
+    **Example Output:** "Boop"  
+  4. The program returns "Beep" if the user-inputted number contains a 1.  
+    **Example Input:** 15  
+    **Example Output:** "Beep"  
+
     
 
 
